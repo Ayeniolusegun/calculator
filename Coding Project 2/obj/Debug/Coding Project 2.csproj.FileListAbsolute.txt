@@ -1,0 +1,10 @@
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\bin\Debug\Coding Project 2.exe.config
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\bin\Debug\Coding Project 2.exe
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\bin\Debug\Coding Project 2.pdb
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\obj\Debug\Coding Project 2.csproj.AssemblyReference.cache
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\obj\Debug\Coding_Project_2.Form1.resources
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\obj\Debug\Coding_Project_2.Properties.Resources.resources
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\obj\Debug\Coding Project 2.csproj.GenerateResource.cache
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\obj\Debug\Coding Project 2.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\obj\Debug\Coding Project 2.exe
+\\JLC-FSRV01\s22000003251\Documents\program\Coding Project 2\Coding Project 2\obj\Debug\Coding Project 2.pdb
